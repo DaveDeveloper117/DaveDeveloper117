@@ -40,6 +40,12 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/> 
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> 
+<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  /> 
+<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /> 
+
 <br/>
 
 #
