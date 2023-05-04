@@ -1,9 +1,8 @@
 <img src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47p1rfzmon7k3wqm2thso9wbs1xprqv8u7qkvihv0l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%"/>
 
-# ¡Hola! - Soy David Butrón👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monsterrat&size=30&pause=1000&color=27F755&vCenter=true&width=500&lines=%C2%A1Hola!+-+Soy+David+Butr%C3%B3n%F0%9F%91%8B)](https://git.io/typing-svg)
 
-**`Desarrollador y diseñador, actualmente establecido en México`**
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monsterrat&size=15&pause=1000&color=27F755&vCenter=true&width=500&lines=Desarrollador+y+dise%C3%B1ador%2C+actualmente+establecido+en+M%C3%A9xico)](https://git.io/typing-svg)
 <details> 
 <summary><h2>👨‍💻 Acerca de mí</h2></summary> 
 
