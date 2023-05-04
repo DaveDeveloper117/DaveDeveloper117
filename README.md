@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monsterrat&size=30&pause=1000&color=27F755&vCenter=true&width=500&lines=%C2%A1Hola!+-+Soy+David+Butr%C3%B3n%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monsterrat&size=15&pause=1000&color=27F755&vCenter=true&width=500&lines=Desarrollador+y+dise%C3%B1ador%2C+actualmente+establecido+en+M%C3%A9xico)](https://git.io/typing-svg)
+
 <details> 
 <summary><h2>👨‍💻 Acerca de mí</h2></summary> 
 
@@ -16,6 +17,8 @@ Además, soy un defensor de la inclusión y la diversidad en la tecnología. Cre
 
 Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Gracias por visitar mi perfil de GitHub!
 </details>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaveDeveloper117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 Herramientas y Lenguajes
 
@@ -48,6 +51,12 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 <br/>
 
 #
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="Dave Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&layout=compact&hide_border=true&theme=merko"/>
+</div>
+  
 
 ## 🎓 Educación
 
