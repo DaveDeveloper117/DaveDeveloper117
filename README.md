@@ -22,6 +22,7 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 
 ## 🚀 Herramientas y Lenguajes
 
+<div align="center">
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
@@ -47,10 +48,10 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /> 
-
+</div>
 <br/>
 
-#
+## 📊 Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="Dave Stats" /> 
