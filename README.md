@@ -55,8 +55,8 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 ## 📊 Stats
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="Dave Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&layout=compact&hide_border=true&theme=merko"/>
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="Dave Stats" /> 
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&layout=compact&hide_border=true&theme=merko"/>
 </div>
   
 
