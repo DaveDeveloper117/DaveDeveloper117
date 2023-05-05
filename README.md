@@ -49,7 +49,8 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 <img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /> 
 </div>
-<br/>
+
+#
 
 ## 📊 Stats
 
