@@ -18,7 +18,7 @@ Además, soy un defensor de la inclusión y la diversidad en la tecnología. Cre
 Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Gracias por visitar mi perfil de GitHub!
 </details>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaveDeveloper117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaveDeveloper117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 Herramientas y Lenguajes
 
