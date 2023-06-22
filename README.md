@@ -1,8 +1,8 @@
 <img src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47p1rfzmon7k3wqm2thso9wbs1xprqv8u7qkvihv0l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monsterrat&size=30&pause=1000&color=27F755&vCenter=true&width=500&lines=%C2%A1Hola!+-+Soy+David+Butr%C3%B3n%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=40&duration=3000&pause=1000&color=A6DA95&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+-+Soy+David+Butr%C3%B3n+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monsterrat&size=15&pause=1000&color=27F755&vCenter=true&width=500&lines=Desarrollador+y+dise%C3%B1ador%2C+actualmente+establecido+en+M%C3%A9xico)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=3000&pause=1000&color=A6DA95&center=true&vCenter=true&width=800&lines=Frontend+UI%2FUX+-+Establecido+en+M%C3%A9xico+%F0%9F%A4%A0)](https://git.io/typing-svg)
 
 <details> 
 <summary><h2>👨‍💻 Acerca de mí</h2></summary> 
@@ -20,43 +20,15 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🚀 Herramientas y Lenguajes
+##
 
-<div align="center">
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-left: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /> 
-</div>
-
-#
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9A%80+Herramientas+y+Lenguajes&align=center&titleAlign=center&borderRadius=5&lineHeight=9&lineCount=2&theme=catppuccin_macchiato&gap=13&width=1000&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=androidstudio%2Candroid+studio%2C8aadf4%3Bkotlin%2Ckotlin%2Cc6a0f6%3Bapple%2Cios%2Ccad3f5%3Bflutter%2Cflutter%2C91d7e3%3Bangular%2Cangular%2Ced8796%3Btypescript%2Ctypescript%2C8aadf4%3B&line2=adobeillustrator%2Cadobe+illustrator%2Ceed49f%3Badobephotoshop%2Cadobe+photoshop%2C7dc4e4%3Badobeaftereffects%2Cadobe+after+effects%2Cc6a0f6%3Bunity%2Cunity%2Ccad3f5%3Bblender%2Cblender%2Cf5a97f%3Bpython%2Cpython%2C7dc4e4%3B" alt="🚀 Herramientas y Lenguajes" />
 
 ## 
 
 <div align="center">  
-  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Dave Stats" /> 
-  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact" alt="Dave Stats" /> 
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact"/>
 </div>
   
 
