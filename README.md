@@ -18,7 +18,7 @@ Además, soy un defensor de la inclusión y la diversidad en la tecnología. Cre
 Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Gracias por visitar mi perfil de GitHub!
 </details>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaveDeveloper117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 Herramientas y Lenguajes
 
@@ -55,8 +55,8 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 ## 
 
 <div align="center">  
-  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="Dave Stats" /> 
-  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&layout=compact&hide_border=true&theme=merko"/>
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Dave Stats" /> 
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
 </div>
   
 
