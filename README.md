@@ -1,8 +1,14 @@
-<img src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47p1rfzmon7k3wqm2thso9wbs1xprqv8u7qkvihv0l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%"/>
+<div align="center">
+  <img heigth="fit-content" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47p1rfzmon7k3wqm2thso9wbs1xprqv8u7qkvihv0l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%"/>
+</div>  
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=40&duration=3000&pause=1000&color=A6DA95&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+-+Soy+David+Butr%C3%B3n+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=3000&pause=1000&color=A6DA95&center=true&vCenter=true&width=800&lines=Frontend+UI%2FUX+-+Establecido+en+M%C3%A9xico+%F0%9F%A4%A0)](https://git.io/typing-svg)
+  
+</div>
 
 <details> 
 <summary><h2>👨‍💻 Acerca de mí</h2></summary> 
@@ -27,8 +33,8 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 ## 
 
 <div align="center">  
-  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact" alt="Dave Stats" /> 
-  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact"/>
+  <img width="50%" height="fit-content" src="https://github-readme-stats.vercel.app/api?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact" alt="Dave Stats" /> 
+  <img width="50%" height="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveDeveloper117&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact"/>
 </div>
   
 
