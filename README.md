@@ -51,9 +51,16 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 - Inglés: [B1 ITEP CERT](https://www.iteptest.com/reports/ScoreReport.php?p=f470fdd03171fb2bfe46d29c9f3e9306Aty0z&uid=1682386816)
 
 
+## 🌐 Redes Sociales
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/davedev18)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/davidbutr0n/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/davedarkhat/)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com.mx/daiv_men/)
+
 ## :mailbox: Contacto
 
 - :envelope: [dabicho803@gmail.com](mailto:dabicho803@gmail.com)
 
+## 💰Ayudame donando ❤️
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/daviddev117) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/davidbutr0)
 
 ¡Gracias por visitar mi perfil! ¡Hablemos! 😄
