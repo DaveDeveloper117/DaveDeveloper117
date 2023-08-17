@@ -11,9 +11,9 @@
 </div>
 
 <details> 
-<summary><h2>👨‍💻 Acerca de mí</h2></summary> 
+<summary><h2 align="center">👨‍💻 Acerca de mí</h2></summary> 
 
-Hola, ¡bienvenido a mi perfil de GitHub! Me llamo Luis David Antonio Butrón y me apasiona la tecnología desde que tengo memoria. Mi primer encuentro con una PC de escritorio ocurrió cuando tenía solo cinco años, y desde entonces he estado maravillado por las posibilidades que ofrece la tecnología.
+Hola, ¡bienvenido a mi perfil de GitHub!, me apasiona la tecnología desde que tengo memoria, mi primer encuentro con una PC de escritorio ocurrió cuando tenía solo cinco años, y desde entonces he estado maravillado por las posibilidades que ofrece la tecnología.
 
 Comencé a estudiar programación en un colegio técnico, donde pude explorar diferentes lenguajes y frameworks, lo que me permitió descubrir mi pasión por el desarrollo de software. Durante mi estadía en la universidad (UTVAM), aprendí a trabajar en colaboración con otros en proyectos tecnológicos dentro y fuera de la institución. Además, por mi cuenta, he estudiado diseño de interfaces de usuario (UI) y experiencia de usuario (UX), lo que me ha permitido crear soluciones tecnológicas más intuitivas y atractivas.
 
@@ -38,11 +38,35 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 </div>
   
 
-## 🎓 Educación
+<h2 style="text-align: center;">🎓 Educación</h2>
 
-- Técnico en Programación, [Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo(CECyTEH)](http://www.cecyteh.edu.mx/), 2016 - 2019.
-- TSU Tecnologías de la Información y Comunicación Area Entornos Virtuales, [Universidad Tecnológica de la Zona Metropolitana del Valle de México](https://utvam.edu.mx/), 2020 - 2022.
-- Ingeníeria Entornos Virtuales y Negocios Digitales, [Universidad Tecnológica de la Zona Metropolitana del Valle de México](https://utvam.edu.mx/), 2022 - Actualidad.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://www.cecyteh.edu.mx/images/logos/cecytehidalgo.png" alt="Logo" width="100" style="margin-right: 20px;">
+    <div>
+        <h3>Técnico en Programación</h3>
+        <p><a href="http://www.cecyteh.edu.mx/">Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo (CECyTEH)</a></p>
+        <p>2016 - 2019</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://utvam.edu.mx/img/LogoUTVAMof.png" alt="Logo" width="100" style="margin-right: 20px;">
+    <div>
+        <h3>TSU Tecnologías de la Información y Comunicación - Area Entornos Virtuales</h3>
+        <p><a href="https://utvam.edu.mx/">Universidad Tecnológica de la Zona Metropolitana del Valle de México</a></p>
+        <p>2020 - 2022</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://utvam.edu.mx/img/LogoUTVAMof.png" alt="Logo" width="100" style="margin-right: 20px;">
+    <div>
+        <h3>Ingeniería Entornos Virtuales y Negocios Digitales</h3>
+        <p><a href="https://utvam.edu.mx/">Universidad Tecnológica de la Zona Metropolitana del Valle de México</a></p>
+        <p>2022 - 2023</p>
+    </div>
+</div>
+
 
  
 ## 🌍 Idiomas
