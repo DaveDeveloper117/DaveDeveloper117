@@ -48,7 +48,7 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 ## 🌍 Idiomas
 
 - Español: Nativo.
-- Inglés: [B1 ITEP CERT](https://www.iteptest.com/reports/ScoreReport.php?p=f470fdd03171fb2bfe46d29c9f3e9306Aty0z&uid=1682386816)
+- English: [B2 ITEP CERT](https://www.iteptest.com/reports/ScoreReport.php?p=f9ded756d1737b4c1ae127b8359ee1a8Axxts&uid=1692232662)
 
 
 ## 🌐 Redes Sociales
