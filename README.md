@@ -39,11 +39,11 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 
 ## 📌 Repositorios Destacados
 
-<div align="center">
-  <a href="https://github.com/DaveDeveloper117/Menta" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=menta&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
-  <a href="https://github.com/DaveDeveloper117/AgentPro" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=agentpro&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
-  <a href="https://github.com/DaveDeveloper117/Spotify_UI_Clone" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=spotify_ui_clone&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
-  <a href="https://github.com/DaveDeveloper117/Kital" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=kital&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
+<div align="center"> 
+  <a href="https://github.com/DaveDeveloper117/Spotify_UI_Clone" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=spotify_ui_clone&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
+  <a href="https://github.com/DaveDeveloper117/ComposeTutorial" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=composetutorial&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
+  <a href="https://github.com/DaveDeveloper117/Menta" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=menta&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
+  <a href="https://github.com/DaveDeveloper117/Kital" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=kital&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a>
   <a href="https://github.com/DaveDeveloper117/Product-Preview-Card-Component" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=product-preview-card-component&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
   <a href="https://github.com/DaveDeveloper117/Results-Summary-Component" target="_blank"><img height="fit-content" src="https://github-readme-stats.vercel.app/api/pin/?username=DaveDeveloper117&repo=results-summary-component&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/></a> 
 </div>
