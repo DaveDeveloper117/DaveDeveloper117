@@ -80,3 +80,9 @@ Si estás interesado en conocer más sobre mí, no dudes en contactarme. ¡Graci
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/daviddev117) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/davidbutr0n)
 
 ¡Gracias por visitar mi perfil! ¡Hablemos! 😄
+
+<p align="center">
+  <a href="https://github.com/davedeveloper117">
+    <img src="https://komarev.com/ghpvc/?username=davedeveloper117&color=1f6feb" />
+  </a>
+</p>
